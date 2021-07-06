@@ -10,7 +10,7 @@ Shifting Number is a single player game.
 
 ## Defining Our System
 
-![Game](https://images.app.goo.gl/KGBNgV2mnX4n4avd8)
+![Optional Text](../This PC/Pictures/image.png)
 
 The game is played by single user.  The game starts by entering user name .Randomly filled 4x4 matrix is dispalyed and 1 poistion is empty.user has to move numbers to empty position  only one at time.
 
@@ -20,20 +20,20 @@ The game is played by single user.  The game starts by entering user name .Rando
 
 ## 4W's and 1'H
 
-Who:
+#### Who:
 single user game, Anyone can play this game.
 
-What:
+#### What:
 The number shifting game aims to improve the user's quick and strategic decision making skills, by helping them think of the optimal solution for victory
 
-When:
+#### When:
 When you feel the necessity to sharpen your stratergic skills.
 
-Where:
-This game can be played anywhere and is supported by most of the platforms without the use of internet.
+#### Where:
+This game can be played anywhere.
 
-How:
-This is a two player game, take turns in making your move and enjoy!
+#### How:
+Single user game, swap the number and get a winning matrix.
 
 ## Detail requirements
 
