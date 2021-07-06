@@ -9,14 +9,12 @@ Shifting Number is a single player game.
 
 
 ## Defining Our System
-![Defining Our System](https://github.com/chandana0777/c-project/issues/image.png)
 
 
 The game is played by single user.  The game starts by entering his/her name .Randomly filled 4x4 matrix is dispalyed and 1 poistion is empty.user has to move numbers to empty position  only one at time.The resulting matrix should match the winning matrix.
 
 
 ## SWOT ANALYSIS
-![SWOT ANALYSIS](https://github.com/vikramsvdd/MiniProject_TicTacToeGamehub/blob/main/Requirement/SWOT1.png)
 
 ## 4W's and 1'H
 
