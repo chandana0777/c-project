@@ -9,7 +9,7 @@ Shifting Number is a single player game.
 
 
 ## Defining Our System
-
+![alt tag](https://github.com/chandana0777/c-project/issues/1#issue-937921718)
 
 
 The game is played by single user.  The game starts by entering user name .Randomly filled 4x4 matrix is dispalyed and 1 poistion is empty.user has to move numbers to empty position  only one at time.
