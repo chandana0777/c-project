@@ -2,51 +2,49 @@
 
 ## Introduction
 
-* This project is a Shifting Number Game, created using C language, designed and employed for a simple console application.
-Shifting Number is a single player game.
-* It contains  a 4 by 4 matrix and  15 numbers in the range .From 1 to 15 are randomly filled in the given 4 by 4 matrix, and 1 position is empty.
-* You can move numbers to empty position only one at time. Initially you are provided 300 move.For each move your total number will decrease by 1. You have to win within this move.
+* Connect Four is a two player game with "perfect information." This term describes games where one player at a time plays, players have all the information about moves that have taken place, and all moves that can take place, for a given game state. Connect Four also belongs to the classification of an adversarial, zero-sum game, since a player's advantage is an opponent's disadvantage.
+
 
 
 ## Defining Our System
 ![SWOT ANALYSIS](https://github.com/chandana0777/c-project/issues/1#issue-937921718)
 
 
-The game is played by single user.  The game starts by entering his/her name .Randomly filled 4x4 matrix is dispalyed and 1 poistion is empty.user has to move numbers to empty position  only one at time.The resulting matrix should match the winning matrix.
+* The solved conclusion for Connect Four is first player win. With perfect play, the first player can force a win, on or before the 41st move by starting in the middle column. The game is a theoretical draw when the first player starts in the columns adjacent to the center. For the edges of the game board, column 1 and 2 on left, and column 7 and 6 on right, the exact move-value score for first player start is loss on the 40th move, and loss on the 42nd move, respectively. In other words, by starting with the four outer columns, the first player allows the second player to force a win.
 
 
 ## SWOT ANALYSIS
-
+![SWOT ANALYSIS](https://github.com/vikramsvdd/MiniProject_TicTacToeGamehub/blob/main/Requirement/SWOT1.png)
 ## 4W's and 1'H
 
-#### Who:
-single user game.Anyone can play this game.
+## Who:
+* Children and young inquisitive teenagers who enjoy challenging themselves.
 
-#### What:
-The number shifting game aims to improve the user's quick and strategic decision making skills, by helping them think of the optimal solution for victory
+## What:
+* This game aims to improve the user's quick and strategic decision making skills, by helping them think of the optimal solution for victory
 
-#### When:
-When you feel the necessity to sharpen your stratergic skills.
+## When:
+* When you feel the necessity to sharpen your stratergic skills.
 
-#### Where:
-This game can be played anywhere.
+## Where:
+* This game can be played anywhere and is supported by most of the platforms without the use of internet.
 
-#### How:
-Single user game, swap the number and get a winning matrix.
+## How:
+*  This is a two player game, take turns in making your move and enjoy!
 
 ## Detail requirements
 
 ## High Level Requirements:
 |ID	     |Description	                                       |Category	   |Status      |
 | :---   | :---                                                | :---          | :---       |
-|HR01	 |User can choose the position to place their number   |Technical	   |Implemented |
+|HR01	 |User can choose the position of there move   |Technical	   |Implemented |
 |HR02	 |User shall be able to change the level of difficulty |Techincal	   |Future      |
-
-
+|HR03    |User shall be able to play against the computer      |Technical      |Future      |
 ## Low level Requirements:
 
 |ID	     |Description	                                                                                |HLR ID	  |Status       |
 | :---   | :---                                                                                         | :---    | :---        |
-|LR01	 |User is expected to choose a position and enter swap number to empty                          |         |             |
-|        |position in the grid in order to obtained final winning matrix                                |	HR01  |Implemented  |
+|LR01	 |User is expected to choose a position to connect their moves                                  |	HR01  |Implemented  |
 |LR02	 |The user is allowed to choose the level of difficulty which varies from easy to medium to hard|	HR02  |Future       |
+|lR03    |The user can also choose to play with computer apart from playing with another user.          |   HR03  |Future      |
+## Low level Requirements:
