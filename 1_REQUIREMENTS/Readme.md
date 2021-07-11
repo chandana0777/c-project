@@ -1,25 +1,30 @@
 # Requirements
-## TIC TAC TOE GAME
+## Xs and Os GAME
 ## Introduction
 
 The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally. An opponent can prevent a win by blocking the completion of the opponent's line. 
 
 ## Requirements
-### High level Requirements
+# Detail requirements
+## High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User can choose the position to place their symbol| Technical |Implemented| 
+| HR02 | User shall be able to change the level of difficulty| Techincal | Future|
+| HR03 | User shall be able to play against the computer | Techincal | Future |
 
-- Trap the system requirements such as software installation.
-- Analyse the project plannings include boundaries in work, constraints and performance.
-### Low level Requirements
+##  Low level Requirements:
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 | User is expected to choose a position and enter the number that indicates that position in the grid in order to place their respective symbol.  | HR01 | Implemented |
+| LR02 | The user is allowed to choose the level of difficulty which varies from easy to medium to hard. | HR02 | Future |
+| LR03 | The user can also choose to play with computer apart from playing with another user.  | HR03 | Future|
 
-- Analysing of C language.
-- Capture the sub functions to implement the project.
 
 
 ## SWOT Analysis 
 
-| SWOT        | Analysis                                                                                                |
-|-------------|---------------------------------------------------------------------------------------------------------|
-| Strength    | The game combines aspects of chess(piece capturing) and tic-tac-toe which makes it really interesting.  |
-| Weakness    | Only two player can play the game.                                                                      |
-| Opportunity | The play board and the number of pieces can be increased giving rise to more complex strategies.        |
-| Threat      | Algorithms can be developed to identify these scenarios and come up with moves leading to the end game. |
+## SWOT  Analysis  
+![SWOT ANALYSIS](https://github.com/vikramsvdd/MiniProject_TicTacToeGamehub/blob/main/Requirement/SWOT1.png)
+                                                                                              |
