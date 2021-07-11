@@ -1,9 +1,9 @@
+SRC = implementation/src/project_main.c
+INC = inmplementation/inc
 
 
-
-
-target : project_main.c 
-	gcc projet_main.c -o all.exe
+target : $(SRC) $(INC)
+	gcc $(SRC) -I$(INC) -o all.exe
 
 run : target
 	./all.exe
@@ -11,6 +11,11 @@ run : target
 clean : 
 	rm all.exe
 
+cppcheck:
+	cppcheck -I$(INC) $(SRC)
+
+coverageCheck: 
+	gcc -fprofile-arcs -ftest-coverage $(SRC) 
 
 	
 	
