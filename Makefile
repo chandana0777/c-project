@@ -1,9 +1,9 @@
-SRC = src/project_main.c
-INC = inc
 
 
-target : $(SRC) $(INC)
-	gcc $(SRC) -I$(INC) -o all.exe
+
+
+target : project_main.c 
+	gcc projet_main.c -o all.exe
 
 run : target
 	./all.exe
