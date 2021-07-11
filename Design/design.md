@@ -1,6 +1,6 @@
 # Block Diagram
 
-![](https://user-images.githubusercontent.com/64957658/images.app.goo.gl/jHKUGVu5SKRJUfxV7)
+![](https://images.app.goo.gl/jHKUGVu5SKRJUfxV7)
 
 # Use case Diagram
 
