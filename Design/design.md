@@ -1,6 +1,6 @@
 # Block Diagram
 
-![](block_diagram.png)
+![alt text](https://github.com/chandana0777/c-project/blob/main/block_diagram.png)
 
 
 # Use case Diagram
