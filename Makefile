@@ -11,10 +11,6 @@ run : target
 clean : 
 	rm all.exe
 
-cppcheck:
-	cppcheck -I$(INC) $(SRC)
 
-coverageCheck: 
-	gcc -fprofile-arcs -ftest-coverage $(SRC) 
 	
 	
