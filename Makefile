@@ -1,5 +1,5 @@
-SRC = implementation/src/project_main.c
-INC = inmplementation/inc
+SRC = 3_implementation/src/project_main.c
+INC = 3_inmplementation/inc
 
 
 target : $(SRC) $(INC)
