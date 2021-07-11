@@ -1,12 +1,11 @@
-# Mini Project --- Tic Tac Toe
+#C-PROJECT
 
-## Build    
+## **X'S AND O'S  GAME**
+
+It is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os. It is a game that is traditionally played by being drawn on paper, and it can be played on a computer or on a variety of media.
 
 
-[![Build Status](https://github.com/MadhumethaJeyaganesan/Mini-project---Game/actions/workflows/build.yml/badge.svg)](https://github.com/MadhumethaJeyaganesan/Mini-project---Game/actions/workflows/build.yml) 
 
-## Code Quality
+  
 
-![image](https://user-images.githubusercontent.com/67951541/125087910-8ac3f800-e0ea-11eb-8af1-206a0ac76f45.png)
 
-![image](https://user-images.githubusercontent.com/67951541/125088010-a4653f80-e0ea-11eb-8776-845d6fba02c8.png)
