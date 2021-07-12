@@ -16,6 +16,5 @@ cppcheck:
 
 coverageCheck: 
 	gcc -fprofile-arcs -ftest-coverage $(SRC) 
-
 	
 	
