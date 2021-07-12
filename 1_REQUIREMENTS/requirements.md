@@ -21,8 +21,4 @@ It is a simple, two-player game that, if played optimally by both players, will 
 | LR02 | User should be able to select a difficulty level(easy, medium, hard) while playing with a computer  | HR02 | Future |
 | LR03 | The user can also choose to play with computer apart from playing with another user.  | HR03 | Future|
 
-## SWOT Analysis 
 
-[]! (https//https://github.com/chandana0777/c_project/blob/main/1_Requirements/swot.png)
-
-                                                                                              |
