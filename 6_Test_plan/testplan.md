@@ -1,13 +1,18 @@
 # TEST PLAN:
 
-##  Test plan Table
-| **Test ID** | **Description**                                              | **Exp o/P** | **Actual O/P** |   
-|-------------|--------------------------------------------------------------|------------|-------------|
-|1|Buttons should be enabled and disabled at different times depending on the current game state| PASS | Scenario|
-|2|The markers should alternate between displaying "X"'s and "O"'s on turn switches, both in  single and  multiplayer                                                                      |pass  | sucess  |
-|3|The options panel should display options when selected.                                       | Pass | Pass |
-| 4| Diagonal mode should change the display to all of the diagonals.                | Success | Requirement based |
-| 5|  Checking if the game is still in progress .Displays that the Game is still continuing | Sucess | Requirement based |
+# TEST PLAN:
 
+## Table 1: High level test plan
 
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|-----------------|-------------|----------------|------------------|
 
+|  1| player has to place their symbor in the position     |  entering  1 to 9|token appears in the cell|correct output|Scenario based |
+|  2| Invalid if user enters a number out of range                 |  Integers other then 1 to 9 |invalid | invalid |Boundary based    |
+
+## Table 2: Low level test plan
+
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |   
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  1     | If there is no position to place the symbol  |  exit     | exit        | exit           |
+|  2    | once game is over exit the programwhen                | exit        | exit           |exit |

@@ -1,8 +1,4 @@
-/* =========================================================================
-    Unity Project - A Test Framework for C
-    Copyright (c) 2007-19 Mike Karlesky, Mark VanderVoord, Greg Williams
-    [Released under MIT License. Please refer to license.txt for details]
-============================================================================ */
+
 
 #include "unity.h"
 #include <stddef.h>
@@ -70,12 +66,7 @@ static const char PROGMEM UnityStrResultsIgnored[]         = " Ignored ";
 static const char PROGMEM UnityStrDetail1Name[]            = UNITY_DETAIL1_NAME " ";
 static const char PROGMEM UnityStrDetail2Name[]            = " " UNITY_DETAIL2_NAME " ";
 
-/*-----------------------------------------------
- * Pretty Printers & Test Result Output Handlers
- *-----------------------------------------------*/
 
-/*-----------------------------------------------*/
-/* Local helper function to print characters. */
 static void UnityPrintChar(const char* pch)
 {
     /* printable characters plus CR & LF are printed */

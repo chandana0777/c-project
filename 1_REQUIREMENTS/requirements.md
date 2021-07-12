@@ -3,15 +3,15 @@
 
 ## Introduction
 
-The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally. An opponent can prevent a win by blocking the completion of the opponent's line. 
+It is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os. It is a game that is traditionally played by being drawn on paper, and it can be played on a computer or on a variety of media.
 
 # Detail requirements
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | User can choose the position to place their symbol| Technical |Implemented| 
+| HR01 | user can able to choice their position inorder to place their symbol| Technical |Implemented| 
 | HR02 | User shall be able to change the level of difficulty| Techincal | Future|
-| HR03 | Rules to decide the winner can be changed.| Techincal | Future |
+| HR03 | desiging the frontend part| Techincal | Future |
 
 ##  Low level Requirements:
  
