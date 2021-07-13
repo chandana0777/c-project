@@ -9,7 +9,7 @@
 
 |CI    |contribution  check -Git inspector | Valgrid|
 |-     |-                                  | -      |
-|[![CI](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml)|[![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/build.yml)|
+|[![CI](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml)|[![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/valgrid.yml)|
 
 
 ## **X'S AND O'S  GAME**
