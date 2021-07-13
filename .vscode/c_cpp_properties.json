@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "C:\\MinGW\\include",
-                "${workspaceFolder}/3_Implementation/inc"
+                "${workspaceFolder}/3_Implementation/inc",
+                "${workspaceFolder}/3_Implementation/Unity"
             ],
             "defines": [
                 "_DEBUG",
