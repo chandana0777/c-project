@@ -1,4 +1,12 @@
-
+/**
+ * @file unity.c
+ * @author chandana s 
+ * @version 0.1
+ * @date 2021-07-13
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 
 #include "unity.h"
 #include <stddef.h>
