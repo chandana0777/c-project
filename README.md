@@ -3,9 +3,13 @@
 ## BADGES
 
 
-| Build       |  Unity      | Code Coverage     |  code quality score | contribution  check -Git inspector | Valgrid| 
-|-            | -           |-                  |-                    |-                           |-       |
-| [![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/chandana0777/c-project/actions/workflows/build.yml) | [![Unit Tests](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/unity.yml/badge.svg)](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/unity.yml) | [![CI-Coverage](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/ci-coverage.yml/badge.svg)](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/ci-coverage.yml)|![code quality score](https://www.code-inspector.com/project/24990/score/svg) |[![Contribution Check - Git Inspector](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml)|[![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/build.yml)|
+| Build       |  Unity      | Code Coverage     |  code quality score |  
+|-            | -           |-                  |-                    |
+| [![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/chandana0777/c-project/actions/workflows/build.yml) | [![Unit Tests](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/unity.yml/badge.svg)](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/unity.yml) | [![CI-Coverage](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/ci-coverage.yml/badge.svg)](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/ci-coverage.yml)|![code quality score](https://www.code-inspector.com/project/24990/score/svg) |
+
+|CI    |contribution  check -Git inspector | Valgrid|
+|-     |-                                  | -      |
+|[![CI](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml)|[![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/build.yml)|
 
 
 ## **X'S AND O'S  GAME**
