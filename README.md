@@ -8,7 +8,7 @@ It is a simple, two-player game that, if played optimally by both players, will 
 
 | Build       |  Unity      |  code quality score |   
 |-            | -           |-                    |
-| [![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/build.yml)  | [![Unit Testing - Unity](https://github.com/chandana0777/c-project/actions/workflows/unity.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/unity.yml)|![code quality score](https://www.code-inspector.com/project/24990/score/svg) |
+| [![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/build.yml)  | [![Unit Testing - Unity](https://github.com/chandana0777/c-project/actions/workflows/unity.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/unity.yml)|![code quality score](https://www.code-inspector.com/project/24990/score/svg)|
 
 
 |  contribution check -git Inspector     | CI    | Code Grade|cppcheck| 
