@@ -34,11 +34,10 @@ SF ID. |  Name   |    Features    | Issuess Raised |Issues Resolved|
    
 
 ## Learning Resources
-1. tutorials point
-2. geeksforgeeks
-3. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
-4. [git inspector](https://github.com/ejwa/gitinspector.git)
-5. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+1. Geeksforgeeks
+2. markdownBasics
+3. git inspector
+4. github workflow
 
 
 
