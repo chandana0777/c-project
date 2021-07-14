@@ -6,9 +6,10 @@ It is a simple, two-player game that, if played optimally by both players, will 
 
 ## SDLC Activity Based Learning
 
-| Build       |  Unity      | Code Coverage     |  code quality score |   
-|-            | -           |-                  |-                    |
-| [![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/build.yml)  | [![Unit Testing - Unity](https://github.com/chandana0777/c-project/actions/workflows/unity.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/unity.yml)| [![CI-Coverage](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/ci-coverage.yml/badge.svg)](https://github.com/bgvmysore/miniproject_stepin/actions/workflows/ci-coverage.yml)|![code quality score](https://www.code-inspector.com/project/24990/score/svg) |
+| Build       |  Unity      |  code quality score |   
+|-            | -           |-                    |
+| [![Build Status](https://github.com/chandana0777/c-project/actions/workflows/build.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/build.yml)  | [![Unit Testing - Unity](https://github.com/chandana0777/c-project/actions/workflows/unity.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/unity.yml)|![code quality score](https://www.code-inspector.com/project/24990/score/svg) |
+
 
 |  contribution check -git Inspector     | CI    | Code Grade|cppcheck| 
 | -           |-                  |-             |-|
