@@ -12,7 +12,7 @@ It is a simple, two-player game that, if played optimally by both players, will 
 
 |  contribution check -git Inspector     | CI    | Code Grade|    
 | -           |-                  |-             |
-|[![Contribution Check - Git Inspector](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/gitinspector.yml)|[![CI](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a978c628dcff472fab05008ec4b26ee6)](https://www.codacy.com/gh/chandana0777/c-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chandana0777/c-project&amp;utm_campaign=Badge_Grade)|
+|[![Contribution Check - Git Inspector](https://github.com/chandana0777/c-project/actions/workflows/contribution%20Git%20Inspector.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/contribution%20Git%20Inspector.yml)|[![CI](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/chandana0777/c-project/actions/workflows/cppcheck.yml) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a978c628dcff472fab05008ec4b26ee6)](https://www.codacy.com/gh/chandana0777/c-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chandana0777/c-project&amp;utm_campaign=Badge_Grade)|
 
 
 ## Folder Structure
